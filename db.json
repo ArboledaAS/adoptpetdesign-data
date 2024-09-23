@@ -1,0 +1,28 @@
+{
+    "usuarios":
+    [
+        {
+            "id": 1,
+            "name": "andres arboleda",
+            "email": "andres@gmail.com",
+            
+            "phone": "123-456-7890"
+        },
+    
+        {
+            "id": 2,
+            "name": "jose perez",
+            "email": "jose@gmail.com",
+            "phone": "987-654-3210"
+        },
+    
+        {
+            "id": 3,
+            "name": "maria garcia",
+            "email": "maria@gmail.com",
+            "phone": "555-555-5555"
+        }
+    ]
+    
+}
+    
