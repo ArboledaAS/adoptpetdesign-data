@@ -30,27 +30,66 @@
     [
         {
             "id": 1,
-            "name": "perro",
-            "raza": "golden retriever",
+            "name": "Alpha",
+            "raza": "Abisinio",
             "sexo": "macho",
             "edad": 5,
-            "descripcion": "un perro muy bonito"
+            "descripcion": "un gato muy bonito",
+            "imagen":"/images/gato1.png"
         },
         {
             "id": 2,
-            "name": "gato",
-            "raza": "perro",
-            "sexo": "hembra",
+            "name": "Anisse",
+            "raza": "Siames",
+            "sexo": "macho",
             "edad": 3,
-            "descripcion": "un gato muy feliz"
+            "descripcion": "un gato muy feliz",
+            "imagen":"/images/gato2.png"
         },
         {
             "id": 3,
-            "name": "canario",
-            "raza": "canario",
+            "name": "Aria",
+            "raza": "Siames",
             "sexo": "hembra",
             "edad": 1,
-            "descripcion": "un canario muy cariñoso"
+            "descripcion": "un gato muy cariñoso",
+            "imagen":"/images/gato3.png"
+        },
+        {
+            "id": 4,
+            "name": "Bellota",
+            "raza": "Ragamuffin",
+            "sexo": "hembra",
+            "edad": 4,
+            "descripcion": "un gato amigable",
+            "imagen":"/images/gato4.png"
+        },
+        {
+            "id": 5,
+            "name": "Fiona",
+            "raza": "Abisinio",
+            "sexo": "hembra",
+            "edad": 6,
+            "descripcion": "un gato muy cariñoso",
+            "imagen":"/images/gato5.png"
+        },
+        {
+            "id": 6,
+            "name": "Angus",
+            "raza": "American wirehair",
+            "sexo": "macho",
+            "edad": 3,
+            "descripcion": "un gato inquieto",
+            "imagen":"/images/gato6.png"
+        },
+        {
+            "id": 7,
+            "name": "Apolo",
+            "raza": "Burmilla",
+            "sexo": "macho",
+            "edad": 6,
+            "descripcion": "un gato solitario",
+            "imagen":"/images/gato7.png"
         }
     ]
     
